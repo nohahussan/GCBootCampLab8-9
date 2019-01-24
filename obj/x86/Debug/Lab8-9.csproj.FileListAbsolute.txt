@@ -1,0 +1,6 @@
+/Users/Noha/Projects/Lab8-9/Lab8-9/bin/Debug/Lab8-9.exe
+/Users/Noha/Projects/Lab8-9/Lab8-9/bin/Debug/Lab8-9.pdb
+/Users/Noha/Projects/Lab8-9/Lab8-9/obj/x86/Debug/Lab8-9.csprojAssemblyReference.cache
+/Users/Noha/Projects/Lab8-9/Lab8-9/obj/x86/Debug/Lab8-9.csproj.CoreCompileInputs.cache
+/Users/Noha/Projects/Lab8-9/Lab8-9/obj/x86/Debug/Lab8-9.exe
+/Users/Noha/Projects/Lab8-9/Lab8-9/obj/x86/Debug/Lab8-9.pdb

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Lab8_9
 {
+
     class MainClass
     {
         public static void Main(string[] args)
